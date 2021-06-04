@@ -7,3 +7,14 @@ img {
     width: 400px;
     align-content: center;
 }
+
+h4 {
+    color: darkblue;
+    text-align: center;
+}
+
+div {
+    height: 300px;
+    width: 50%;
+    background-color: powderblue;
+  }
