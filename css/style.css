@@ -1,24 +1,49 @@
 h1 {
-    color: darkblue;
+    color: white;
     text-align: center;
+    font-size: 80px;
 }
+
+body {
+    background-color: lavender;
+
+}
+
 img {
-    height:400px;
+    border-radius: 50%;
+    height: 400px;
     width: 400px;
-    align-content: center;
+
 }
 
 h4 {
-    color: darkblue;
+    color: white;
     text-align: center;
+    font-size: 30px;
 }
 
-div {
-    height: 300px;
-    width: 100%;
-    background-color: powderblue;
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
   }
   
-  img {
-    float: inline-end;
+
+.div1 {
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
   }
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+
