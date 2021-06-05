@@ -34,14 +34,18 @@ header {
   }
 
   .div1 {
-      background-color: paleturquoise;
+      background-color: lightblue;
       padding: 30px;
       margin-top: 10px;
       border-radius: 10%;
+      margin-bottom: 10px;
   }
 
   .div2 {
       background-color: whitesmoke;
+      padding:30px;
+      margin-bottom: 10px;
+      border-radius: 10%;
   }
  
 footer {
