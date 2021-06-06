@@ -55,10 +55,11 @@ header {
   }
 
   .div2 {
-      background-color: whitesmoke;
+      background-color: rgb(201, 186, 186);
       padding:30px;
-      margin-bottom: 400px;
-      border-radius: 10%;
+      margin-bottom: 100px;
+      border-radius: 5%;
+      border: 1px solid black;
   }
  
 footer {
@@ -70,6 +71,10 @@ footer {
 
   h5 {
     text-underline-position: below;
+  }
+
+  .important {
+      color: teal;
   }
 
 
